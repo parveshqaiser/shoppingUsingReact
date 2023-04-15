@@ -55,9 +55,9 @@ export function IndexPageBigBazar()
                 <footer className="container-fluid bg-dark text-white m-2">
                     <div className="d-flex justify-content-around" target="contact">
                         <div>
+                            {/* <p>Contact Us @</p>
                             <p>Contact Us @</p>
-                            <p>Contact Us @</p>
-                            <p>Contact Us @</p>
+                            <p>Contact Us @</p> */}
                         </div>
                         <div>
                             <p>Contact Us @</p>
